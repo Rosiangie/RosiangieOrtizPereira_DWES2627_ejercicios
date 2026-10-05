@@ -1,0 +1,11 @@
+¿Por qué has tenido que cambiar de ubicación las vistas? 
+
+Poder renderizar los html
+
+ ¿Has tenido que cambiar el código HTML del menú de navegación? ¿Por qué?
+Porque cree un fragmento y eso hace hace que puede reutilizar el codigo. 
+
+¿Tienen que llamarse igual la ruta de un @GetMapping y la vista que devuelve? Justifícalo
+con tu proyecto.
+
+No tienen que llamarse del mismo modo, yo lo hice así para tener mas claros los ejercicios
