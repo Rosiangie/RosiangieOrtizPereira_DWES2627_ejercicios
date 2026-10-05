@@ -1,0 +1,19 @@
+div{
+    display: grid;
+    align-content: center;
+    width: 300px;
+    height: 200px;
+    font-size: 20px;
+    border: gray 2px solid;
+    border-radius: 2px;
+    padding-block: 3px;
+    margin: 5px;
+    align-items: center;
+}
+nav{
+    align-content: center;
+}
+img{
+    width: 290px;
+    height: 230px;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" th:href="@{/estilos.css}">
+</head>
+<body>
+<nav th:replace="~{fragmentos/menu :: opciones}"></nav>
+    <section>
+        <div>
+            <span>El juego del Angel</span>
+            <img th:src="@{/El_juego_del_angel.jpg}" alt="El juego del Amgel">
+        </div>
+        <div>
+            <span>El Pricionero del cielo</span>
+            <img th:src="@{/El_pricionero_del_cielo.jpg}" alt="El prisionero del cielo">
+        </div>
+        <div>
+            <span>El laberinto de los espiritus</span>
+            <img th:src="@{/Laberinto_de_los_espiritus.jpg}" alt="El laberinto de los espiritus">
+        </div>
+        <div>
+            <span>La sombra del viento</span>
+            <img th:src="@{/Sombra_del_viento.jpg}" alt="La sombra del viento">
+        </div>
+    </section>
+</body>
+</html>
