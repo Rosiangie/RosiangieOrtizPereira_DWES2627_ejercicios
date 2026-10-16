@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12db5c2f-0161-4e6f-a925-a941591015b7" name="Changes" comment="" />
+    <list default="true" id="12db5c2f-0161-4e6f-a925-a941591015b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../3e3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/src/main/java/org/example/_e3/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/src/main/java/org/example/_e3/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/src/main/java/org/example/_e3/controllers/ModuloControlador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/src/main/java/org/example/_e3/models/Modulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/src/main/resources/templates/modulosLista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/src/test/java/org/example/_e3/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3e3/src/test/java/org/example/_e3/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/target/classes/org/example/_e3/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/target/classes/org/example/_e3/controllers/ModuloControlador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/target/classes/org/example/_e3/models/Modulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/target/classes/templates/modulosLista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3e3/target/test-classes/org/example/_e3/ApplicationTests.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +38,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,21 +58,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/03-Materias/09-DESARROLLO ENTORNO SERVIDOR/RosiangieOrtizPereira_DWES2627_ejercicios/ud3/3e2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />

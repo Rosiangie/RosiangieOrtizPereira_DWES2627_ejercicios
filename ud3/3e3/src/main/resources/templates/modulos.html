@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>
+    <a th:href="@{/}">Todos</a>
+    <a th:href="@{/(curso=1)}">1er</a>
+    <a th:href="@{/(curso=2)}">2do</a>
+
+</div>
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Curso</th>
+                <th>Horas</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr th:if="${#lists.isEmpty(modulos)}">
+            <td>No hay Modulos</td>
+        </tr>
+        <tr th:each="modulo : ${modulos}">
+            <td th:text="${modulo.getNombre()}"></td>
+            <td th:text="${modulo.getId()}"></td>
+            <td th:text="${modulo.getHoras()}"></td>
+            <td th:text="${modulo.getId()}"></td>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -4,16 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad76abc3-9557-4549-9ec6-64965a92acdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/_e3/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/_e3/ApplicationTests.java" afterDir="false" />
+    <list default="true" id="7c26bff0-32fd-4a3f-9e33-6442b55c1ace" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../3e2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3e2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_e3/controllers/ModuloControlador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/_e3/models/Modulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/modulosLista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/_e3/controllers/ModuloControlador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/_e3/models/Modulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/modulosLista.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -39,10 +40,10 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8,
-  &quot;fromUser&quot;: false
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="3KKqNrMp1stJNnORLzN24HXfCsn" />
+  <component name="ProjectId" id="3KkEbphChhEfwrex4mlPj31oYNt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,22 +52,16 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.Application.executor": "Debug",
+    "Spring Boot.Application.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/03-Materias/09-DESARROLLO ENTORNO SERVIDOR/RosiangieOrtizPereira_DWES2627_ejercicios/ud3/3e3",
     "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
@@ -91,11 +86,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ad76abc3-9557-4549-9ec6-64965a92acdf" name="Changes" comment="" />
-      <created>1791316573108</created>
+      <changelist id="7c26bff0-32fd-4a3f-9e33-6442b55c1ace" name="Changes" comment="" />
+      <created>1792093243686</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1791316573108</updated>
+      <updated>1792093243686</updated>
     </task>
     <servers />
   </component>
